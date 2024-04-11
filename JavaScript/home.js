@@ -1,7 +1,7 @@
 // Loader Screen 
 
 var loader = document.getElementsByClassName("preloader")[0];
-var loadingDelay = 2000;  // 2000 ms
+var loadingDelay = 1000;  // 1000 ms
 
 window.addEventListener("load",function()
 {
