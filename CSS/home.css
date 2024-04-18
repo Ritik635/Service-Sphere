@@ -500,7 +500,7 @@ color: var(--link-color);
   flex-direction: column;
   align-items: center;
   text-align: center;
-  animation: introAni 2s ease forwards ;
+  animation: introAni 3s ease forwards ;
   opacity: 0;
   margin-top: 2rem;
 }
@@ -1094,6 +1094,7 @@ footer{
   margin-top: 5rem;
   width: 100%;
   position: absolute;
+  
 
   background: linear-gradient(to right, #00093c, #2d0b00);
   color: #fff;
